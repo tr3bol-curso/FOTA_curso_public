@@ -1,4 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/tr3bol-curso/FOTA_curso_public/main/M11A_FOTAPublico.ino.bin"
+  "version": "1.5.1",
+  "url": "https://raw.githubusercontent.com/tr3bol-curso/FOTA_curso_public/refs/heads/main/CPv1_0___ESPv1.5.ino.bin",
+  "notes": "Primera actualizacion remota"
 }
